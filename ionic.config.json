@@ -1,0 +1,7 @@
+{
+  "name": "navegacion_pantallas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
